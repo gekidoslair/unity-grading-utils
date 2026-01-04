@@ -48,7 +48,7 @@ This allows you to run scripts you create locally.
 
 ------
 
-## Step 1 — Generate a Project List
+## Step 1 - Generate a Project List
 
 This scans student submission folders and finds the **actual Unity project roots**, even if they are nested.
 
@@ -69,7 +69,7 @@ This scans student submission folders and finds the **actual Unity project roots
 
 ------
 
-## Step 2 — Open Projects for Marking (5 at a Time)
+## Step 2 - Open Projects for Marking (5 at a Time)
 
 Once the list exists, open projects from it:
 
@@ -132,7 +132,7 @@ Repeat for Assignment 2 and 3 with different list files.
 
 ## Notes & Tips
 
-- Opening too many Unity projects at once is slow — **5 is a good default**
+- Opening too many Unity projects at once is slow - **5 is a good default**
 - Projects opened this way usually appear in Unity Hub automatically
 - If a project is missing `ProjectSettings`, it will be skipped (intentional)
 - The scripts work even if students nest projects several folders deep
